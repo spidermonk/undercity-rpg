@@ -1,0 +1,29 @@
+{
+    "name": "undercity",
+    "title": "Undercity RPG System",
+    "description": "A flexible grim dark system in the Foundry Virtual Tabletop environment.",
+    "version": "0.0.1",
+    "author": "spidermonk",
+    "scripts": [],
+    "esmodules": [],
+    "styles": [],
+    "packs": [],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
+    "socket": true,
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": null,
+    "secondaryTokenAttribute": null,
+    "minimumCoreVersion": "0.8.2",
+    "compatibleCoreVersion": "0.8.9",
+    "url": "https://github.com/spidermonk/undercity-rpg",
+    "manifest": null,
+    "download": null
+  }
+  
